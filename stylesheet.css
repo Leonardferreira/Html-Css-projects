@@ -41,3 +41,25 @@ ul, ul li{
     padding-left: 2px;
     padding: 0px,0px,4px,4px;
 }
+.menu {
+    text-align: right;
+}
+.menu li {
+    list-style: none;
+    display: inline-block;
+    padding: 0px;
+    margin: 2px;
+}
+.menu a{
+    background-color:#c1bebe;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    border-radius: 30px;
+}
+.menu a:hover{
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    
+}
