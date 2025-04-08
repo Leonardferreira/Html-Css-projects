@@ -1,0 +1,43 @@
+body{
+    background-color:#cccccc;
+    padding: 0px;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 80%;
+}
+h1 {
+    text-align: center;
+    background-color: #acafd4;
+    color: #071761;
+    padding: 8px;
+    margin: 8px;
+}
+.sub{
+    text-align: center;
+    font-size: 15px;
+    padding-bottom: 15px;
+}
+
+h2 {
+    border-bottom: solid 3px #061761;
+    background-color: #b6b6b6;
+    color:#061761;
+    padding: 10px;
+    font-size: 36px;
+}
+p{
+    font-size: 15px;
+}
+.experi{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.empresa{
+    color: #0302ee;
+    font-weight: bold;
+}
+ul, ul li{
+    margin: 10px;
+    padding-left: 2px;
+    padding: 0px,0px,4px,4px;
+}
